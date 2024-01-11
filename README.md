@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on **Cash Advance and Retirement Form API**<br><br>- 🌱 I’m currently learning **PostgreSQL, Bash**<br><br>- -->
--👨‍💻 All of my projects are available at [https://github.com/owolagbadavid](https://github.com/owolagbadavid/)<br><br>- 💬 Ask me about **Node.js**<br><br>- 💼 Portfolio [https://www.owolagbadavid.live](https://www.owolagbadavid.live)<br><br>- 📫 How to reach me **owolagbadavid@gmail.com**<br>
+-👨‍💻 All of my projects are available at [https://github.com/owolagbadavid](https://github.com/owolagbadavid/)<br><br>- 💬 Ask me about **Node.js**<br><br>- 💼 Portfolio [https://portfolio.oreosinit.tech](https://www.owolagbadavid.live)<br><br>- 📫 How to reach me **owolagbadavid@gmail.com**<br>
 
 
 ## 🌐 Socials:
