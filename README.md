@@ -23,3 +23,6 @@
 
 [//]: # (wakatime-stats)
 [//]: # (end-wakatime-stats)
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oreosinit)](https://github.com/anuraghazra/github-readme-stats)<br/>
